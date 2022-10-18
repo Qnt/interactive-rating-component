@@ -1,5 +1,5 @@
 let form = document.querySelector('.rating-scale-form');
-let ratingState = document.querySelector('.interactive-component-container');
+let ratingState = document.querySelector('.rating-container');
 let thankYouState = document.querySelector('.thank-you-state-container');
 let ratingValue = document.querySelector('.thank-you-state-rating-value');
 
